@@ -1,0 +1,30 @@
+.SS{
+display: inline-block;
+align-items: center;
+
+}
+.ad{
+    /* align-items: center; */
+    margin-left: 70px;
+    width: 350px;
+    height: 400px;
+    cursor: pointer;
+}
+.ad:hover,
+.ad:focus{
+    width: 355px;
+    height: 405px;
+}
+#ad1{
+    margin-left: 200px;
+}
+#ad2{
+    margin-left: 370px;
+}
+#ad3{
+    margin-left: 360px;
+}
+
+h2{
+    text-align: center;
+}
